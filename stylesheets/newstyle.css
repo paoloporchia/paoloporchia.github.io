@@ -1,0 +1,21 @@
+.wrapper {
+  margin: 40px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.padding-bottom-sm {
+padding-bottom: 5px;
+}
+.border-bottom {
+  border-bottom: 1px solid grey;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.self-center {
+  align-self: center;
+}
